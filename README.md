@@ -1,3 +1,3 @@
 # certifications
 
-Compilation of certificates 
+Compilation of certificates from seminars
